@@ -15,3 +15,7 @@ body {
 .textstyle {
   color: green;
 }
+
+ul {
+  position: sticky;
+}
