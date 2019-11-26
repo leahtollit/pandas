@@ -12,15 +12,13 @@ body {
   height: 400px;
 }
 
-
 .textstyle {
   color: green;
 }
-
-ul {
-  position: sticky;
-}
-
 h1 {
+  text-align: center;
   font-family: font-family: 'Baskervville', serif;
+}
+ul {
+ text-align: center;
 }
