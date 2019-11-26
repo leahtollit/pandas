@@ -15,7 +15,9 @@ body {
 .textstyle {
   color: green;
 }
-
+h1 {
+  text-align: center;
+}
 ul {
-  position: sticky;
+ text-align: center;
 }
