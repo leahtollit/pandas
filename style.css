@@ -1,7 +1,7 @@
 body {
   padding-top: 5rem;
   background-color: white;
-  font-size: 15px
+  font-size: 20px
 }
 .starter-template {
   padding: 3rem 1.5rem;
@@ -11,7 +11,6 @@ body {
 .cImg {
   height: 400px;
 }
-
 
 .textstyle {
   color: green;
@@ -25,8 +24,4 @@ body {
 
 ul {
  text-align: center;
-}
-
-h1 {
-  font-family: font-family: 'Baskervville', serif;
 }
