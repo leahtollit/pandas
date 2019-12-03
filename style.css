@@ -24,9 +24,7 @@ body {
   padding-top: 200px;
 }
 
-ul {
- text-align: center;
-}
+
 
 img {
   margin-top: 35px;
@@ -48,6 +46,7 @@ img:hover {
   justify-content: center;
   padding: 10px;
 }
+
 .col {
   width: 1000%;
   position: relative;
@@ -60,5 +59,6 @@ img:hover {
   padding-right: 10px;
   padding-top: 40px;
   padding-bottom: 10px;
+
 
 }
