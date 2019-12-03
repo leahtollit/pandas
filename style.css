@@ -34,7 +34,12 @@ img {
 .heading {
   padding: 3rem 1.5rem;
 }
-
-.carousel-inner: 
-{height: 1000%;
-} 
+.page-footer {
+  background: #2B4F0C;
+  color: #FFF;
+  display: flex;
+  height: 10vh;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
