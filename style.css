@@ -52,3 +52,13 @@ img:hover {
   width: 1000%;
   position: relative;
 } 
+.container-content {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+
+}
