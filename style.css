@@ -31,9 +31,13 @@ ul {
 img {
   margin-top: 35px;
 }
+img:hover {
+  opacity: 0.5;
+}
 
 .heading {
   padding: 3rem 1.5rem;
+
 }
 .page-footer {
   background: #2B4F0C;
