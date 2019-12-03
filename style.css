@@ -43,3 +43,7 @@ img {
   justify-content: center;
   padding: 10px;
 }
+.col {
+  width: 1000%;
+  position: relative;
+} 
