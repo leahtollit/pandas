@@ -3,7 +3,7 @@ body {
   background-color: white;
   font-size: 20px;
   color: #2B4F0C;
-  
+
 }
 .starter-template {
   padding: 3rem 1.5rem;
@@ -16,7 +16,7 @@ body {
 
 .textstyle {
   color: #2B4F0C;
-  padding: 3rem; 
+  padding: 3rem;
 }
 
 .heading {
@@ -39,6 +39,17 @@ img:hover {
   padding: 3rem 1.5rem;
 
 }
+<style type="text/css">
+   
+ #share-buttons img {
+ width: 35px;
+ padding: 5px;
+ border: 0;
+ box-shadow: 0;
+ display: inline;
+}
+ </style>
+
 .page-footer {
   background: #2B4F0C;
   color: #FFF;
@@ -52,4 +63,4 @@ img:hover {
 .col {
   width: 1000%;
   position: relative;
-} 
+}
