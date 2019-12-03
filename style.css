@@ -39,8 +39,7 @@ img:hover {
   padding: 3rem 1.5rem;
 
 }
-<style type="text/css">
-   
+
  #share-buttons img {
  width: 35px;
  padding: 5px;
@@ -48,17 +47,16 @@ img:hover {
  box-shadow: 0;
  display: inline;
 }
- </style>
 
 .page-footer {
-  background: #2B4F0C;
-  color: #FFF;
-  display: flex;
-  height: 10vh;
-  align-items: center;
-  justify-content: center;
-  padding: 10px;
-}
+   background: #2B4F0C;
+   color: #FFF;
+   display: flex;
+   height: 10vh;
+   align-items: center;
+   justify-content: center;
+   padding: 10px;
+ }
 
 .col {
   width: 1000%;
